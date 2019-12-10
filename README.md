@@ -17,6 +17,5 @@ You must ensure your datasets are in `data`
 python meanshift.py --data_dir /data/<YOUR_DATA_DIR>
 ```
 
-## Result
-![image1](https://github.com/Hanawh/Meanshift/tree/master/result/FaceOcc1/00050.jpg)
+
 
